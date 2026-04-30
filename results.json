@@ -1,0 +1,32 @@
+[
+  {
+    "query": "What is the pipeline about?",
+    "results": [
+      {
+        "chunk_text": "Dummy PDF file",
+        "page_number": 0,
+        "score": 1.8483529090881348
+      }
+    ]
+  },
+  {
+    "query": "What are the constraints?",
+    "results": [
+      {
+        "chunk_text": "Dummy PDF file",
+        "page_number": 0,
+        "score": 1.9396895170211792
+      }
+    ]
+  },
+  {
+    "query": "What are the deliverables?",
+    "results": [
+      {
+        "chunk_text": "Dummy PDF file",
+        "page_number": 0,
+        "score": 1.7580091953277588
+      }
+    ]
+  }
+]
